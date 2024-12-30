@@ -11,4 +11,4 @@ It shows how to do the following:
 - Allow buttons to show when the printer is being homed, leveled, etc.
 
 Demo Here:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dnyL4WtG1BE?si=OFhqHeRFGGUjI4eW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dnyL4WtG1BE/0.jpg)](https://www.youtube.com/watch?v=dnyL4WtG1BE)
